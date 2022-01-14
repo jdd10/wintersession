@@ -5,4 +5,4 @@ just adding some description
 
 We're really making progress now!
 
-the text locally is different
+here's some random text. I've corrected the conflict!
